@@ -1,0 +1,14 @@
+name: 19ws-visualanalytics
+channels:
+- defaults
+- conda-forge
+dependencies:
+- geopandas
+- ipyleaflet
+- ipywidgets
+- jupyter
+- numpy
+- pandas
+- pip
+- python>=3.7
+- seaborn
